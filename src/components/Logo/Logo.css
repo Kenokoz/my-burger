@@ -1,7 +1,8 @@
 .Logo {
-  background-color: rgb(235, 225, 116);
+  background-color: white;
+  margin-top: 30px;
   padding: 8px;
-  height: 80%;
+  height: 100%;
   box-sizing: border-box;
   border-radius: 5px;
 }
